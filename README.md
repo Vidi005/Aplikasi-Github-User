@@ -1,10 +1,11 @@
 # Github-User-App
 ## Proyek Dicoding Fundamental Aplikasi Android
-### Components:
+### Submission 1
+#### Components:
 1. RecyclerView
 2. Explicit Intent with Parcelable
 
-### Features:
+#### Features:
 1. List User
 2. Detail User
 
